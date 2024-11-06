@@ -1,0 +1,12 @@
+/* Basic styling */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.user-list h1 {
+  color: #333;
+}
